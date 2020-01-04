@@ -1,0 +1,4 @@
+这个模型是在百度的AI studio环境下编写的
+将装有测试集数据的文件夹(名为test)与test.py放到一个目录下
+sampleSubmission是助教在Kaggle上给出的提交例子，用于确定输出数据的格式
+直接运行test.py就可以得到预测结果了
